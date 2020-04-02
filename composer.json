@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Shikaemon\\pr\\": "src/"
+            "Shikaemon\\Pr\\": "./src/"
         },
     },
     "require-dev": {
